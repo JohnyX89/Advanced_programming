@@ -50,3 +50,19 @@ Project github: https://github.com/smrza/ReviewDAO
 * project showcase	https://showcase.ethglobal.com/daohacks/reviewdao-qp5ih
 
 
+##### Jan Bures
+
+| **Task**                                | **Spend time** | **Commit**                                                                         |
+|-----------------------------------------|----------------|------------------------------------------------------------------------------------|
+| Team discussion and planning            | 7              |                                                                                    |
+| Technology research                     | 4              |                                                                                    |
+| FrontEnd planning - routing             | 1              |                                                                                    |
+| FrontEnd base                           | 6              |                                                                                    |
+| Cards with static data                  | 13             |                                                                                    |
+| Metamask                                | 3              | https://github.com/smrza/ReviewDAO/commit/3f10795737896e548bef6f9ad2f86a25522a8ad9 |
+| Forms with Formik                       | 5              | https://github.com/smrza/ReviewDAO/commit/369db1e16c58395c300e8943b28135950340c16c |
+| IPFS - creation and displaying in cards | 6              | https://github.com/smrza/ReviewDAO/commit/45cfcd8cf63f09c132a1bf3774301537ceb9d0ae |
+| Add Graph                               | 5              | https://github.com/smrza/ReviewDAO/commit/811d51feb995423c9fd40361353fed9e09033042 |
+| Add contract                            | 3              | https://github.com/smrza/ReviewDAO/commit/aa7974c5997fc0b4613d75147635b645f6c13029 |
+| Recomposing to the dynamic flow         | 15             | https://github.com/smrza/ReviewDAO/commit/c1ccb9aca69d037b5925d449e30814e94451af86 |
+| Styling                                 | 5              |                                                                                    |
