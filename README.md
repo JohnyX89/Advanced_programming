@@ -66,3 +66,18 @@ Project github: https://github.com/smrza/ReviewDAO
 | Add contract                            | 3              | https://github.com/smrza/ReviewDAO/commit/aa7974c5997fc0b4613d75147635b645f6c13029 |
 | Recomposing to the dynamic flow         | 15             | https://github.com/smrza/ReviewDAO/commit/c1ccb9aca69d037b5925d449e30814e94451af86 |
 | Styling                                 | 5              |                                                                                    |
+
+
+##### David Rábel
+
+| **Task**                                | **Spend time** | **Commit**                                                                         |
+|-----------------------------------------|----------------|------------------------------------------------------------------------------------|
+| Team discussion and planning            | 7              |                                                                                    |
+| Technology research                     | 20             |                                                                                    |
+| TheGraph-Basics                         | 10             | https://github.com/smrza/ReviewDAO/commit/db236244035474594bc44c3b1d795df0efbd6fd2 |
+| TheGraph-FirstContract connection       | 6              | https://github.com/smrza/ReviewDAO/commit/882b6d5bbe42ce8c297eb8073e0b00d22e051601 |
+| TheGraph-SecondContract connection      | 10             | https://github.com/smrza/ReviewDAO/commit/86f625fca8ec9ff51bff8a4a24161f9624552bc6 |
+| TheGraph-EndPoint                       | 3              |                                                                                    |
+| TheGraph - Reworking to Factory         | 12             | https://github.com/smrza/ReviewDAO/commit/1f6d7a0ca162d991a710d7b0b5ca62d391036987 |
+| TheGraph - Testing                      | 2              |                                                                                    |
+| TheGraph - Connection to FR             | 5              | https://github.com/smrza/ReviewDAO/commit/c1ccb9aca69d037b5925d449e30814e94451af86 |         
